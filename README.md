@@ -11,3 +11,11 @@ Under keras custom training loop I mean, defining own loss function, and own lay
 
 The dataset and model are taken from Bolun Wang's [Repository](https://github.com/bolunwang/backdoor). 
 The code is partially based on Bolun Wang's implementation as well.
+
+Possible output after running `generate_trigger.ipynb`:
+
+<p align="center">
+  <img src="./images/traffic_sign.JPG" width="150" />
+  <img src="./images/trigger.JPG" width="150" /> 
+  <img src="./images/triggered.JPG" width="150" />
+</p>
