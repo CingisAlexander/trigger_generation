@@ -19,3 +19,5 @@ Possible output after running `generate_trigger.ipynb`:
   <img src="./images/trigger.JPG" width="150" /> 
   <img src="./images/triggered.JPG" width="150" />
 </p>
+
+trial
